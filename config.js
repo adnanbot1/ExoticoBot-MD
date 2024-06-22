@@ -98,7 +98,7 @@ global.official = [["5493873232221", 'ExoticoBot : Asistencia', 1], ["5493873232
 
 //*꒷꒦꒷꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦•❲ 𝙀𝙭𝙤𝙩𝙞𝙘𝙤𝘽𝙤𝙩-𝙈𝘿 ❳•꒷꒷꒦꒷꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒦꒷*
 //Simple
-global.esmsMT = es
+global.esmsMT = ar
 global.mail = ''
 global.desc = '' 
 global.desc2 = '' 
